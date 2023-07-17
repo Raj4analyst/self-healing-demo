@@ -4,25 +4,22 @@
    <name>input_Username_username</name>
    <tag></tag>
    <elementGuidId>be7c3390-b141-407b-b4b3-30d5b35fde0f</elementGuidId>
-   <imagePath></imagePath>
    <selectorCollection>
       <entry>
          <key>CSS</key>
          <value>#txt-username</value>
       </entry>
       <entry>
-         <key>IMAGE</key>
-         <value></value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@id='txt-username__broken']</value>
       </entry>
+      <entry>
+         <key>IMAGE</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>CSS</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
 </WebElementEntity>

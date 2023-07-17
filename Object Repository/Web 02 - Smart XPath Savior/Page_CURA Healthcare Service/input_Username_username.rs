@@ -4,11 +4,11 @@
    <name>input_Username_username</name>
    <tag></tag>
    <elementGuidId>34738e65-768d-4986-b660-bef850129929</elementGuidId>
-   <imagePath>Screenshots/Targets/broken-image.png</imagePath>
+   <imagePath>Screenshots/Targets/input_Username_username.png</imagePath>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='txt-username__broken']</value>
+         <value>//input[@id='txt-username']</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -16,14 +16,14 @@
       </entry>
       <entry>
          <key>IMAGE</key>
-         <value>Screenshots/Targets/broken-image.png</value>
+         <value>Screenshots/Targets/input_Username_username.png</value>
       </entry>
       <entry>
          <key>BASIC</key>
-         <value>//*[@type = 'text' and @id = 'txt-username' and @name = 'username' and @placeholder = 'Username']</value>
+         <value></value>
       </entry>
    </selectorCollection>
-   <selectorMethod>IMAGE</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -31,6 +31,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='txt-username']</value>
+      <webElementGuid>92e22b86-be70-4ba0-a932-0cbcb0d152d9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -38,6 +39,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//section[@id='login']/div/div/div[2]/form/div[2]/div/input</value>
+      <webElementGuid>17a049ee-7975-4825-912b-7185a846593d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -45,5 +47,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/input</value>
+      <webElementGuid>c4da8d09-4288-4cb7-b191-5a2d09ce76bd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

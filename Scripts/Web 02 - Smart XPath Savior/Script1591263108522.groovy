@@ -32,5 +32,5 @@ WebUI.verifyElementAttributeValue(username, 'value', 'Broken XPath Savior', 5)
 WebUI.setEncryptedText(findTestObject('Web 02 - Smart XPath Savior/Page_CURA Healthcare Service/input_Password_password'), 
     'T8/LSsNC7pQ=')
 
-not_run: WebUI.closeBrowser()
+WebUI.closeBrowser()
 
