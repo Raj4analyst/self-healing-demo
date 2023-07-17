@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Home loans</name>
+   <tag></tag>
+   <elementGuidId>45d80d9b-f85d-4fcb-93fc-5325871001c7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Home loans')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>946e197b-8503-4803-82c8-b68417f2535f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.commbank.com.au/home-loans.html</value>
+      <webElementGuid>bdfc787a-06ac-43de-ba4a-f0958d112750</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-tracker-type</name>
+      <type>Main</type>
+      <value>header-menu</value>
+      <webElementGuid>97936ae5-d6b4-4a19-906d-11515e9fb810</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Home loans</value>
+      <webElementGuid>72cfd7f3-395b-4f11-a16b-600e4163c610</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;commbank-header&quot;]/div[@class=&quot;commbank-header-module&quot;]/ul[@class=&quot;commbank-list&quot;]/li[3]/a[1]</value>
+      <webElementGuid>ee5d01e0-5719-4653-99cf-97fce43dee7a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Home loans')]</value>
+      <webElementGuid>a091b7c3-0346-4302-b297-52fc20dee3a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Banking'])[1]/following::a[1]</value>
+      <webElementGuid>0d0fae67-0e1f-45ec-8f2e-9d6c4e8632d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Accessibility at CommBank'])[1]/following::a[4]</value>
+      <webElementGuid>04a0422f-cf57-428a-a236-e7db003c66b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Insurance'])[1]/preceding::a[1]</value>
+      <webElementGuid>b723efcd-1b95-41b7-9bea-1fea074d060c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Investing &amp; super'])[1]/preceding::a[2]</value>
+      <webElementGuid>587954d8-76d2-426f-9f7a-ef6902ad8993</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Home loans']/parent::*</value>
+      <webElementGuid>a8f2f10e-cdbb-44db-a868-b395baed0445</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.commbank.com.au/home-loans.html')]</value>
+      <webElementGuid>689e3673-33ca-488b-b556-29e8d8e51454</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a</value>
+      <webElementGuid>00014f9d-8c97-470c-91f0-aef4dea4ea91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.commbank.com.au/home-loans.html' and (text() = 'Home loans' or . = 'Home loans')]</value>
+      <webElementGuid>e4702435-b1b4-4d3b-b09f-e9079a77a4ed</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
