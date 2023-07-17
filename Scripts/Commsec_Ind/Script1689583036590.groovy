@@ -22,29 +22,29 @@ WebUI.openBrowser('')
 WebUI.navigateToUrl('https://www.commbank.com.au/')
 
 WebUI.waitForElementPresent(findTestObject('Object Repository/Commbank/Page_CommBank - bank accounts, credit cards_f4c14e/a_Bank  savings accounts'), 
-    0)
+    4)
 
 WebUI.click(findTestObject('Object Repository/Commbank/Page_CommBank - bank accounts, credit cards_f4c14e/a_Bank  savings accounts'))
 
 WebUI.click(findTestObject('Object Repository/Commbank/Page_Bank accounts - CommBank/a_See all everyday accounts'))
 
-WebUI.waitForElementPresent(findTestObject('Object Repository/Commbank/Page_Everyday accounts - CommBank/a_Open now'), 0)
+WebUI.waitForElementPresent(findTestObject('Object Repository/Commbank/Page_Everyday accounts - CommBank/a_Open now'), 5)
 
 WebUI.click(findTestObject('Object Repository/Commbank/Page_Everyday accounts - CommBank/a_Open now'))
 
 WebUI.waitForElementPresent(findTestObject('Object Repository/Commbank/Page_Everyday accounts - CommBank/a_Open now_1'), 
-    0)
+    5)
 
 WebUI.click(findTestObject('Object Repository/Commbank/Page_Everyday accounts - CommBank/a_Open now_1'))
 
 WebUI.switchToWindowTitle('Smart Access Application')
 
 WebUI.waitForElementPresent(findTestObject('Object Repository/Commbank/Page_Smart Access Application/button_Get started'), 
-    0)
+    5)
 
 WebUI.click(findTestObject('Object Repository/Commbank/Page_Smart Access Application/button_Get started'))
 
-WebUI.waitForElementPresent(findTestObject('Object Repository/Commbank/Page_Smart Access Application/h2_Just me'), 0)
+WebUI.waitForElementPresent(findTestObject('Object Repository/Commbank/Page_Smart Access Application/h2_Just me'), 4)
 
 WebUI.click(findTestObject('Object Repository/Commbank/Page_Smart Access Application/h2_Just me'))
 

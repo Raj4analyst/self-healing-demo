@@ -22,20 +22,22 @@ WebUI.openBrowser('')
 WebUI.navigateToUrl('https://www.commbank.com.au/')
 
 WebUI.waitForElementPresent(findTestObject('Object Repository/Commbank/Page_CommBank - bank accounts, credit cards_f4c14e/h2_Tap into a simpler, more personal app ex_1c3895'), 
-    0)
+    3)
 
 WebUI.waitForElementPresent(findTestObject('Commbank/Page_CommBank - bank accounts, credit cards_f4c14e/a_Banking'), 20)
 
+WebUI.getText(findTestObject('Commbank/Page_CommBank - bank accounts, credit cards_f4c14e/a_Banking'))
+
 WebUI.click(findTestObject('Object Repository/Commbank/Page_CommBank - bank accounts, credit cards_f4c14e/a_Banking'))
 
-WebUI.waitForElementVisible(findTestObject('Object Repository/Commbank/Page_Banking - CommBank/h1_Banking'), 0)
+WebUI.waitForElementVisible(findTestObject('Object Repository/Commbank/Page_Banking - CommBank/h1_Banking'), 5)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Commbank/Page_Banking - CommBank/h1_Banking'), 'Banking')
 
 WebUI.click(findTestObject('Object Repository/Commbank/Page_Banking - CommBank/a_Home loans'))
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Commbank/Page_Home loans - calculators, guides and c_0e89e1/h1_Home loans'), 
-    0)
+    5)
 
 WebUI.click(findTestObject('Object Repository/Commbank/Page_Home loans - calculators, guides and c_0e89e1/a_Book appointment'))
 
