@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='CB-BANKING-EA-BANNER']/div/div/div/div[2]/div/div[2]/p/a</value>
+         <value>//a[contains(text(),'Open now')]</value>
       </entry>
       <entry>
          <key>CSS</key>

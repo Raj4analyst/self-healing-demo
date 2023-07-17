@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_SELECT</name>
+   <tag></tag>
+   <elementGuidId>9423e71e-20d5-45ee-a7b6-3350cc13fbe5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.jss210.jss389.jss400.jss401.jss403.jss404.jss414.test-fareTypeFooterButton > span.jss390</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Per person'])[1]/following::span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2893ebda-af21-444b-a251-e753e600f261</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>jss390</value>
+      <webElementGuid>7357aef0-ec20-4e95-b9d8-b10d6812b969</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select</value>
+      <webElementGuid>00eb979d-2f7f-45fb-ae26-6cda2344ad5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;results-screen&quot;)/div[1]/div[@class=&quot;departingFlightsScreen-0-64 test-departingFlightsScreen&quot;]/div[@class=&quot;rightCol-0-66&quot;]/div[@class=&quot;flightSelector-0-87 test-flightSelector&quot;]/div[@class=&quot;test-tripGroups&quot;]/div[@class=&quot;jss320 jss323 jss321 jss316 test-accordionItem test-accordionItem3 jss318 jss317&quot;]/div[@class=&quot;jss364 jss365&quot;]/div[@class=&quot;jss366&quot;]/div[@class=&quot;jss367&quot;]/div[@class=&quot;jss473 jss472&quot;]/div[@class=&quot;fareDetails-0-132 test-tripGroupContent&quot;]/div[@class=&quot;fareFamilyWrapper-0-133&quot;]/div[@class=&quot;fareFamilyCompare-0-135&quot;]/div[@class=&quot;listContainer-0-145&quot;]/div[@class=&quot;test-scrollableDiv scrollable-0-144&quot;]/div[@class=&quot;fareFamilies-0-148&quot;]/div[@class=&quot;fareType-0-149 fareFamily-0-140 carouselFareFamily-0-141 isHover-0-150 test-fareType&quot;]/div[@class=&quot;fareTypeFooter-0-172 test-fareTypeFooter&quot;]/div[@class=&quot;selectButtonArea-0-179 test-hovered&quot;]/button[@class=&quot;jss210 jss389 jss400 jss401 jss403 jss404 jss414 test-fareTypeFooterButton&quot;]/span[@class=&quot;jss390&quot;]</value>
+      <webElementGuid>ed512b9b-43f8-4ad9-a60b-80d5cfa3ceaa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='results-screen']/div/div/div[2]/div/div[3]/div[5]/div[2]/div/div/div/div/div/div/div[2]/div/div/div/div[3]/div[2]/button/span</value>
+      <webElementGuid>8196656a-b99b-46ed-ac20-1fbb1a4920ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Per person'])[1]/following::span[1]</value>
+      <webElementGuid>c340b1a8-e019-435d-9c87-07fb3e90aca4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$'])[7]/following::span[3]</value>
+      <webElementGuid>b148e91b-244e-43f6-97e5-783beaa9fa4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Starter Flex'])[1]/preceding::span[4]</value>
+      <webElementGuid>47567666-cc73-44b0-9536-50bbb7a179cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fare Rules'])[2]/preceding::span[4]</value>
+      <webElementGuid>3f8637ac-49a2-4d32-8515-a9e3df241ffe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button/span</value>
+      <webElementGuid>8ef3ef96-555a-4819-a90a-3729c551ad09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Select' or . = 'Select')]</value>
+      <webElementGuid>f844d29e-6529-4128-a8c1-239662bbab36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='body']/div[12]/div[2]/div/div[3]/button/span</value>
+      <webElementGuid>27c657a7-3882-4aaf-a96a-aaf445f053c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Per adult return'])[28]/following::span[1]</value>
+      <webElementGuid>67c019a6-7417-4925-88c5-8bc69ada2aa2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$'])[31]/following::span[2]</value>
+      <webElementGuid>a60aa821-938c-4c78-bbe3-666c4ec2bd84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button/span</value>
+      <webElementGuid>ca4558d1-5d49-4d15-9b8c-7dc0a0c92666</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'SELECT' or . = 'SELECT')]</value>
+      <webElementGuid>b5f6e3b2-040f-4e07-924e-8e2463a719e6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
