@@ -41,6 +41,8 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Commbank/Page_Home 
 
 WebUI.click(findTestObject('Object Repository/Commbank/Page_Home loans - calculators, guides and c_0e89e1/a_Book appointment'))
 
+WebUI.delay(5)
+
 WebUI.switchToWindowTitle('Home Loan Appointment Booking')
 
 WebUI.closeBrowser()
