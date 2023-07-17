@@ -24,6 +24,8 @@ WebUI.navigateToUrl('https://www.commbank.com.au/')
 WebUI.waitForElementPresent(findTestObject('Object Repository/Commbank/Page_CommBank - bank accounts, credit cards_f4c14e/h2_Tap into a simpler, more personal app ex_1c3895'), 
     0)
 
+WebUI.waitForElementPresent(findTestObject('Commbank/Page_CommBank - bank accounts, credit cards_f4c14e/a_Banking'), 20)
+
 WebUI.click(findTestObject('Object Repository/Commbank/Page_CommBank - bank accounts, credit cards_f4c14e/a_Banking'))
 
 WebUI.waitForElementVisible(findTestObject('Object Repository/Commbank/Page_Banking - CommBank/h1_Banking'), 0)
