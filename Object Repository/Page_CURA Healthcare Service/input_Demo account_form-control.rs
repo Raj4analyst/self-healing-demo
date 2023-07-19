@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input__destination</name>
+   <name>input_Demo account_form-control</name>
    <tag></tag>
-   <elementGuidId>f91e1144-2085-4474-9670-ff607476f132</elementGuidId>
+   <elementGuidId>1e6dc584-fac4-434d-aa46-bbd89d563a04</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#destination</value>
+         <value>div.col-sm-offset-4.col-sm-8 > div.input-group > input.form-control</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='destination']</value>
+         <value>//input[@value='ThisIsNotAPassword']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,31 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>dad521a1-3bdd-4ee5-becb-2216c557a080</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>autocomplete</name>
-      <type>Main</type>
-      <value>off</value>
-      <webElementGuid>7b9cc9c6-0c3b-4ef5-9330-22aaa618d66b</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>destination</value>
-      <webElementGuid>9d424392-aa9b-4c6e-99a5-168a06a29ed5</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
-      <type>Main</type>
-      <value>Where to?</value>
-      <webElementGuid>79f3217a-0f8b-414b-840c-3cbbdce9c9a2</webElementGuid>
+      <webElementGuid>c2f4544c-0f06-4649-abd6-04751224c703</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,54 +30,78 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>49a2c32b-6c40-45ee-a697-241de8db8142</webElementGuid>
+      <webElementGuid>eddd245d-3245-4ed3-8e1f-327a8c22d7ba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>MuiInputBase-input MuiInputBase-inputAdornedStart css-1a9i5h3</value>
-      <webElementGuid>eb533f79-4398-4e05-8aa7-7f5adc900609</webElementGuid>
+      <value>form-control</value>
+      <webElementGuid>35819b95-ea64-4a55-8f7b-15f7d92c6118</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Password</value>
+      <webElementGuid>2d9cdde5-392d-4000-9385-a1c5e64fc241</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>demo_password_label</value>
+      <webElementGuid>ab82cfeb-f126-4839-9f81-487a2f9d2748</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>ThisIsNotAPassword</value>
+      <webElementGuid>b5ad8ff6-bf5a-442f-9a10-a061bb1d0b7e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;destination&quot;)</value>
-      <webElementGuid>731a8b45-f166-454a-be9e-2356192f1211</webElementGuid>
+      <value>id(&quot;login&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-offset-3 col-sm-6&quot;]/form[@class=&quot;form-horizontal&quot;]/div[@class=&quot;alert alert-info&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;col-sm-offset-4 col-sm-8&quot;]/div[@class=&quot;input-group&quot;]/input[@class=&quot;form-control&quot;]</value>
+      <webElementGuid>a2d49fef-0ad2-4b07-b7c0-7d870883faa5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='destination']</value>
-      <webElementGuid>c67a7bef-20db-4129-8ded-65970bbb1815</webElementGuid>
+      <value>//input[@value='ThisIsNotAPassword']</value>
+      <webElementGuid>a7ba43e4-e7c9-4e02-b744-fb80a3dc1e06</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='__next']/main/div[2]/div/div[2]/div/div/div/div/div/div/div/div[3]/div/div[3]/div/input</value>
-      <webElementGuid>f0fa220f-dd86-4182-bebc-f9537166be6d</webElementGuid>
+      <value>//section[@id='login']/div/div/div[2]/form/div/div[2]/div/div/input</value>
+      <webElementGuid>bf544b4e-4593-4d8c-ae71-390a4cdb0875</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/div/input</value>
-      <webElementGuid>0d618399-3d26-4c3b-8350-f007ef4dcab6</webElementGuid>
+      <value>//div[2]/div/div/input</value>
+      <webElementGuid>2b22a63d-08d9-490e-b78c-1dfea0457418</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'destination' and @placeholder = 'Where to?' and @type = 'text']</value>
-      <webElementGuid>58132ebc-2e5d-4d3d-b49f-b8253572640c</webElementGuid>
+      <value>//input[@type = 'text' and @placeholder = 'Password']</value>
+      <webElementGuid>12abcadb-1fe8-471b-afca-d8f9c7ac0fd0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

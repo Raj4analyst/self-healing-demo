@@ -6,12 +6,12 @@
    <elementGuidId>9861ecb5-2b51-4fce-8aeb-576b1c5c8bee</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='wisepops-wisepop-scrollable-324582']/div/div/div/div[2]/div/div/a/span/img</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>img.ImagePopupBlockReadOnly__InternalImage-sc-1boptuc-5.bFjOzu</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wisepops-wisepop-scrollable-324582']/div/div/div/div[2]/div/div/a/span/img</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>f61364b3-1bb3-4c50-aea3-40d0079f0573</webElementGuid>
+      <webElementGuid>4f5919d2-99e3-4e39-9828-ff7a0fbbd5fb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>src</name>
       <type>Main</type>
       <value>//cdn.wisepops.com/shared/images/wisepops/c.59622/e0bdf398888401a8ca7a01a951b12deb.jpg</value>
-      <webElementGuid>35fe1719-6291-4527-953d-b013e1859d77</webElementGuid>
+      <webElementGuid>804fa8e5-1ba3-4ece-97b5-d331124df3a9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>DD-8786_AU_NZ_600x400</value>
-      <webElementGuid>f1c2e0d7-972e-444e-b9d4-7016a60a6b19</webElementGuid>
+      <webElementGuid>d3a2e144-f471-4f92-9bc5-325209360739</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ImagePopupBlockReadOnly__InternalImage-sc-1boptuc-5 bFjOzu</value>
-      <webElementGuid>30d5a710-3d56-4a54-90f3-385822864d61</webElementGuid>
+      <webElementGuid>a74b3c47-27c4-4086-869f-51435a586655</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;wisepops-wisepop-scrollable-324582&quot;)/div[@class=&quot;Popup__WisepopContent-sc-1vpebv6-2 kzITAm wisepops-content&quot;]/div[@class=&quot;VideoStopper__Container-jc37qi-0 brUTwo&quot;]/div[@class=&quot;BlocksContainer-sc-3tl3gf-0 fYeppA wisepops-column&quot;]/div[@class=&quot;wisepops-blocks-wrapper&quot;]/div[@class=&quot;BlockReadOnly__BlockContainerReadOnly-sc-1sk33k3-0 SdpMH&quot;]/div[@class=&quot;ImagePopupBlockReadOnly__Container-sc-1boptuc-0 ilSiwk wisepops-block-image wisepops-block-id-1692961&quot;]/a[@class=&quot;ImagePopupBlockReadOnly__ImageLink-sc-1boptuc-2 hKcWWD&quot;]/span[@class=&quot;ImagePopupBlockReadOnly__ImagePlacer-sc-1boptuc-4 brlPnP&quot;]/img[@class=&quot;ImagePopupBlockReadOnly__InternalImage-sc-1boptuc-5 bFjOzu&quot;]</value>
-      <webElementGuid>8b771c18-d943-45e3-b9aa-cabdeeed64e2</webElementGuid>
+      <webElementGuid>fdc6048b-da61-46fe-a50d-eb7c77b016b2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='wisepops-wisepop-scrollable-324582']/div/div/div/div[2]/div/div/a/span/img</value>
-      <webElementGuid>71ffeb03-b051-455b-9748-69d5450c8af7</webElementGuid>
+      <webElementGuid>fdfa4518-45c3-49a8-ab28-d92e672531d5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='DD-8786_AU_NZ_600x400']</value>
-      <webElementGuid>7fccc53e-640e-42f4-9737-5839d53bc6aa</webElementGuid>
+      <webElementGuid>b591b45e-aeb7-485c-a1aa-abbe5cbde189</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span/img</value>
-      <webElementGuid>f6010ecb-c1de-4693-81ee-3f785db2904c</webElementGuid>
+      <webElementGuid>5b28b4ce-8f5d-4c74-9dd4-4a6f4a80bfa1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = '//cdn.wisepops.com/shared/images/wisepops/c.59622/e0bdf398888401a8ca7a01a951b12deb.jpg' and @alt = 'DD-8786_AU_NZ_600x400']</value>
-      <webElementGuid>596cccde-3f16-42df-88ea-18242431341b</webElementGuid>
+      <webElementGuid>5804ffb6-6dda-4a50-8cc8-58a41b1c9434</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

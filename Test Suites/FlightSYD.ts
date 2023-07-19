@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>FLIGHTCENTRE</name>
+   <name>FlightSYD</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,26 +10,26 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>d4b00837-516b-4fed-abd7-ed7d3165b8b6</testSuiteGuid>
+   <testSuiteGuid>a67287d8-7092-41c5-b602-5104cd853639</testSuiteGuid>
    <testCaseLink>
-      <guid>108ff6ab-b7bb-41e0-9e41-47ad1eb50e83</guid>
+      <guid>14efa00a-a2e0-4e61-a38c-536a5e05bc79</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/FlightCenter/FlightCentre-ADL</testCaseId>
+      <testCaseId>Test Cases/FlightCenter/FlightCentre-BNE</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>b1336855-db42-4105-86c6-afd3ba70ae6b</guid>
+      <guid>3a0ab109-7261-4dab-ad4c-10308b2dc18e</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/FlightCenter/FlightCentre-AKL</testCaseId>
+      <testCaseId>Test Cases/FlightCenter/FlightCentre-OOL</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>7e1faf13-dfde-43bd-aa3c-768a4c23ceef</guid>
+      <guid>9d6a1774-dbbe-4e1c-9d40-b38b98e8283d</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/FlightCenter/FlightCentre-ATH</testCaseId>
+      <testCaseId>Test Cases/FlightCenter/FlightCentre-SYQ</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

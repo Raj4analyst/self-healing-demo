@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>FLIGHTCENTRE</name>
+   <name>FlightTest</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,26 +10,33 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>d4b00837-516b-4fed-abd7-ed7d3165b8b6</testSuiteGuid>
+   <testSuiteGuid>37c22ad9-a6d8-4671-8695-45b06152e12c</testSuiteGuid>
    <testCaseLink>
-      <guid>108ff6ab-b7bb-41e0-9e41-47ad1eb50e83</guid>
+      <guid>bbe9d7d6-788c-4c77-b9a8-958b83f513fe</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/FlightCenter/FlightCentre-ADL</testCaseId>
+      <testCaseId>Test Cases/FlightCenter/FlightCentre-LCC</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>b1336855-db42-4105-86c6-afd3ba70ae6b</guid>
+      <guid>4b50d891-b995-443b-af93-12e7681e1e75</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/FlightCenter/FlightCentre-AKL</testCaseId>
+      <testCaseId>Test Cases/FlightCenter/FlightCentre-MEL</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>7e1faf13-dfde-43bd-aa3c-768a4c23ceef</guid>
+      <guid>a26413f2-b15b-4115-8a42-635ec217a354</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/FlightCenter/FlightCentre-ATH</testCaseId>
+      <testCaseId>Test Cases/FlightCenter/FlightCentre-KNO</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>7c720618-d14c-4624-a472-730f8340829f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/FlightCenter/FlightCentre-MEX</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
