@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>article_CompareDulux 4L Vivid White Low She_bfcdf6</name>
+   <tag></tag>
+   <elementGuidId>1e462ee7-fc43-45d9-a76a-1dd4a9192706</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/div/div/div/div[4]/article</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>article</value>
+      <webElementGuid>78bd8a46-9c2a-4636-b3b6-83dc78fba708</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-locator</name>
+      <type>Main</type>
+      <value>search-product-tile-index-0</value>
+      <webElementGuid>69f05e0a-f5ab-45aa-92ac-5bc38c82cd55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-631d8b46-6 jRuNzt search-product-tile SearchResults-tile-analytics tile-0 </value>
+      <webElementGuid>2ac5909a-a451-497f-bb7f-a1019c2e9988</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-index</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>b78dcdd1-09a1-4ed5-894c-5c0bc11fe850</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-code</name>
+      <type>Main</type>
+      <value>1370158</value>
+      <webElementGuid>44168fd6-eb5b-4191-8fb9-5bf324f26dcc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CompareDulux 4L Vivid White Low Sheen Wash&amp;Wear Interior Paint(17)29 colours$95.50Add To Cart</value>
+      <webElementGuid>8fa2da9e-3441-4553-9bbb-d336318eff39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;sc-8f36ce6d-3 gMAYfm&quot;]/div[@class=&quot;container-main&quot;]/div[@class=&quot;sc-b2eea8e0-0 dDOKhk&quot;]/div[@class=&quot;sc-8bf11396-12 dpLLIo&quot;]/article[@class=&quot;sc-631d8b46-6 jRuNzt search-product-tile SearchResults-tile-analytics tile-0&quot;]</value>
+      <webElementGuid>e3b8ec93-d353-4813-9ab9-0ea1f039461c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/div/div/div/div[4]/article</value>
+      <webElementGuid>c324eb12-91b1-4383-b4ac-442d7d76b666</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='List'])[1]/following::article[1]</value>
+      <webElementGuid>d0c2d94a-6129-4e69-86bc-1452e1386801</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Grid'])[1]/following::article[1]</value>
+      <webElementGuid>e08a6229-0b0b-44ed-8a16-af45f2aec87c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//article</value>
+      <webElementGuid>cdf3cd3d-2043-43cc-b6e4-4fa9a1d55893</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//article[(text() = 'CompareDulux 4L Vivid White Low Sheen Wash&amp;Wear Interior Paint(17)29 colours$95.50Add To Cart' or . = 'CompareDulux 4L Vivid White Low Sheen Wash&amp;Wear Interior Paint(17)29 colours$95.50Add To Cart')]</value>
+      <webElementGuid>9ffba32b-ddea-492b-a266-2554b1f03d9e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

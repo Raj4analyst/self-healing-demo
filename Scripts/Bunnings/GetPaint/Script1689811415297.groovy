@@ -17,6 +17,21 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-while (true) {
-}
+WebUI.callTestCase(findTestCase('Bunnings/Launch'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://www.bunnings.com.au/')
+
+WebUI.setText(findTestObject('Object Repository/Bunnings/Page_Australia DIY, Garden  Hardware Store _d788a5/input_Hire Shop_q'), 
+    'paint')
+
+WebUI.click(findTestObject('Object Repository/Bunnings/Page_Australia DIY, Garden  Hardware Store _d788a5/rect'))
+
+WebUI.click(findTestObject('Object Repository/Bunnings/Page_Search results - Bunnings Australia/article_CompareDulux 4L Vivid White Low She_bfcdf6'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Bunnings/Page_Dulux 4L Vivid White Low Sheen WashWea_4fc231/h1_Dulux 4L Vivid White Low Sheen WashWear _9108be'), 
+    'Dulux 4L Vivid White Low Sheen Wash&Wear Interior Paint')
+
+WebUI.callTestCase(findTestCase('Re-usable Test Case/RUC002-Close Browser'), [:], FailureHandling.STOP_ON_FAILURE)
 

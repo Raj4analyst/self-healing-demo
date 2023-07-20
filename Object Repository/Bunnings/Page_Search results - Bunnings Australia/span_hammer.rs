@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_hammer</name>
+   <tag></tag>
+   <elementGuidId>043626a2-7947-4308-bb4b-62ec4d1dd936</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h2.MuiTypography-root.MuiTypography-h2 > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/div/div/div/div/div[2]/div/h2/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4023d7de-bcaa-491a-80d7-eb7dfcc87d14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>hammer</value>
+      <webElementGuid>75c06364-77d1-4b43-b8aa-458ade2ff2e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;sc-8f36ce6d-3 gMAYfm&quot;]/div[@class=&quot;container-main&quot;]/div[@class=&quot;sc-b2eea8e0-0 dDOKhk&quot;]/div[@class=&quot;container searchSummaryContainer&quot;]/div[@class=&quot;searchTermContainer&quot;]/div[@class=&quot;searchTerm&quot;]/h2[@class=&quot;MuiTypography-root MuiTypography-h2&quot;]/span[1]</value>
+      <webElementGuid>342c3fd8-eef0-4deb-bd5b-ed795e0c98c9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/div/div/div/div/div[2]/div/h2/span</value>
+      <webElementGuid>8009b5cc-b2e1-4f79-abba-3fc48d30a070</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Our Price Guarantee'])[2]/following::span[1]</value>
+      <webElementGuid>efecf2e1-4d93-4f1a-8d69-84f1328d4cbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Our Price Guarantee'])[1]/following::span[3]</value>
+      <webElementGuid>595792d6-d624-460b-818f-0a8743fd9247</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='in'])[1]/preceding::span[1]</value>
+      <webElementGuid>d64e49b7-ab59-4362-982f-5916eec2d93e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Products'])[1]/preceding::span[2]</value>
+      <webElementGuid>3f0ec532-ffb2-4711-ae7e-3c1c2d0ad3cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='hammer']/parent::*</value>
+      <webElementGuid>63a3ca83-f20f-4988-9109-e6f1db03ba9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2/span</value>
+      <webElementGuid>12437bd4-b5ec-42fc-b521-77adead5fa99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'hammer' or . = 'hammer')]</value>
+      <webElementGuid>61849d69-b908-4a3f-b88c-6215ad4c1766</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

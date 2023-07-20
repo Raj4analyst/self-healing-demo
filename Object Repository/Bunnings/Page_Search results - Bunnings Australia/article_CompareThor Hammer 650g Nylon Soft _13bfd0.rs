@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>article_CompareThor Hammer 650g Nylon Soft _13bfd0</name>
+   <tag></tag>
+   <elementGuidId>f1acc367-14ef-4631-8cfa-386d8b962539</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/div/div/div/div[4]/article</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>article</value>
+      <webElementGuid>f85bb01b-d692-4fc8-9580-d90a036b120b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-locator</name>
+      <type>Main</type>
+      <value>search-product-tile-index-0</value>
+      <webElementGuid>64b61f3d-c621-4521-b160-fe31110e930f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-631d8b46-6 jRuNzt search-product-tile SearchResults-tile-analytics tile-0 </value>
+      <webElementGuid>b8a3592d-5cf1-4c47-a21e-b7056f4da2dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-index</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>36555003-b319-4520-875e-d460fcbeeb46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-code</name>
+      <type>Main</type>
+      <value>5560228</value>
+      <webElementGuid>91f17dcd-ab05-47fc-94f9-763ce0a5d194</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CompareThor Hammer 650g Nylon Soft Faced Hammer TH712(1)$66.90Add To Cart</value>
+      <webElementGuid>fd3ab61c-ccfe-4b57-af2f-ee471eabc696</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;sc-8f36ce6d-3 gMAYfm&quot;]/div[@class=&quot;container-main&quot;]/div[@class=&quot;sc-b2eea8e0-0 dDOKhk&quot;]/div[@class=&quot;sc-8bf11396-12 dpLLIo&quot;]/article[@class=&quot;sc-631d8b46-6 jRuNzt search-product-tile SearchResults-tile-analytics tile-0&quot;]</value>
+      <webElementGuid>0f8af334-e90f-417a-ad6e-10f29389eb9b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/div/div/div/div[4]/article</value>
+      <webElementGuid>2c6271a2-0d4b-4531-b238-88dec0b40692</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='List'])[1]/following::article[1]</value>
+      <webElementGuid>1c133add-ac04-4b2e-9375-574d0f8b5f9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Grid'])[1]/following::article[1]</value>
+      <webElementGuid>d4fdaf6a-94eb-4141-9698-e815902e4d39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//article</value>
+      <webElementGuid>0bdc51de-1a35-40f5-be8c-d8b2c00d7c49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//article[(text() = 'CompareThor Hammer 650g Nylon Soft Faced Hammer TH712(1)$66.90Add To Cart' or . = 'CompareThor Hammer 650g Nylon Soft Faced Hammer TH712(1)$66.90Add To Cart')]</value>
+      <webElementGuid>13674e2e-a27b-4965-9f78-f61327dc5944</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Thor Hammer 650g Nylon Soft Faced Hammer TH712</name>
+   <tag></tag>
+   <elementGuidId>02d0400e-19b7-4c52-99bb-ffaf88b1a554</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1.MuiTypography-root.sc-6f820ba0-2.iSyMDW.MuiTypography-h1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/div/div/div[2]/div/div/div/div/div/div/div/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>78c85940-f32a-457c-8f70-afab7d886822</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root sc-6f820ba0-2 iSyMDW MuiTypography-h1</value>
+      <webElementGuid>596146e9-1435-4027-acfa-8036861918c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-locator</name>
+      <type>Main</type>
+      <value>product-title</value>
+      <webElementGuid>4f07cc3e-c781-4273-8e08-802b7d8ff58a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Thor Hammer 650g Nylon Soft Faced Hammer TH712</value>
+      <webElementGuid>ba80a4f7-b0ac-46c4-af9d-1294ff86e887</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;sc-8f36ce6d-3 gMAYfm&quot;]/div[@class=&quot;container-main&quot;]/div[2]/div[@class=&quot;sc-2b066af8-0 hndgKE&quot;]/div[@class=&quot;productDescriptionTopWrapper&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;paddingWrapper&quot;]/div[@class=&quot;MuiGrid-root productDetails mobileProductDetails MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-12 MuiGrid-grid-md-12 MuiGrid-grid-lg-6&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-12 MuiGrid-grid-lg-12&quot;]/h1[@class=&quot;MuiTypography-root sc-6f820ba0-2 iSyMDW MuiTypography-h1&quot;]</value>
+      <webElementGuid>a60ee137-aa0c-4fe8-90b1-6d5d19332df0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/div/div/div[2]/div/div/div/div/div/div/div/h1</value>
+      <webElementGuid>6b2da0c6-ad91-420c-b366-0a97fbdc0d93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thor Hammer'])[1]/following::h1[1]</value>
+      <webElementGuid>af976626-a9f2-4f60-be59-fc393304b502</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Claw Hammers'])[1]/following::h1[1]</value>
+      <webElementGuid>c34f8eb2-2b04-4dde-a17a-f7088a134d3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Compare'])[1]/preceding::h1[1]</value>
+      <webElementGuid>ffefeb4e-3746-4fd4-96a6-c53ebd4878fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='.90'])[1]/preceding::h1[1]</value>
+      <webElementGuid>97dd16ae-3335-4e45-a5d8-f3a580c1a6f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Thor Hammer 650g Nylon Soft Faced Hammer TH712']/parent::*</value>
+      <webElementGuid>bae64385-ba1d-4df4-984b-f89f37faeb22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>25180a76-6e25-4b64-b97d-ec6e6cb38f3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Thor Hammer 650g Nylon Soft Faced Hammer TH712' or . = 'Thor Hammer 650g Nylon Soft Faced Hammer TH712')]</value>
+      <webElementGuid>5be3ea17-1ecc-4423-bd24-4fb82f9a8b4d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

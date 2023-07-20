@@ -17,6 +17,10 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-while (true) {
-}
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://www.bunnings.com.au/')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Bunnings/Page_Australia DIY, Garden  Hardware Store _d788a5/img'), 
+    '')
 

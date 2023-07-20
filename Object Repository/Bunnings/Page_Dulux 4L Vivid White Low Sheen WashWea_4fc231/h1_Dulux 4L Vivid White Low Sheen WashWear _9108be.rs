@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Dulux 4L Vivid White Low Sheen WashWear _9108be</name>
+   <tag></tag>
+   <elementGuidId>6817a0ce-7a48-458e-87ba-355caf18ab1f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1.MuiTypography-root.sc-6f820ba0-2.iSyMDW.MuiTypography-h1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/div/div/div[2]/div/div/div/div/div/div/div/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>34e8b6bd-f0cf-4ca3-a63a-bd781fe03ad4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root sc-6f820ba0-2 iSyMDW MuiTypography-h1</value>
+      <webElementGuid>de02e3f4-f72a-43f7-95d4-9371ab76ebe4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-locator</name>
+      <type>Main</type>
+      <value>product-title</value>
+      <webElementGuid>e3a241f6-c36c-4fb6-a118-c24ae2389212</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dulux 4L Vivid White Low Sheen Wash&amp;Wear Interior Paint</value>
+      <webElementGuid>fceb14d5-c5bd-4064-bf70-0399d2958dda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;sc-8f36ce6d-3 gMAYfm&quot;]/div[@class=&quot;container-main&quot;]/div[2]/div[@class=&quot;sc-2b066af8-0 hndgKE&quot;]/div[@class=&quot;productDescriptionTopWrapper&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;paddingWrapper&quot;]/div[@class=&quot;MuiGrid-root productDetails mobileProductDetails MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-12 MuiGrid-grid-md-12 MuiGrid-grid-lg-6&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-12 MuiGrid-grid-lg-12&quot;]/h1[@class=&quot;MuiTypography-root sc-6f820ba0-2 iSyMDW MuiTypography-h1&quot;]</value>
+      <webElementGuid>5dfec4ac-f533-47bc-bf83-4ada86c0da47</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/div/div/div[2]/div/div/div/div/div/div/div/h1</value>
+      <webElementGuid>71cfc95a-cd37-4f66-87d4-dfcb67806f0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dulux'])[1]/following::h1[1]</value>
+      <webElementGuid>757785b0-dcea-4f1c-bc78-6c469010e6da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Interior Wall Paint'])[1]/following::h1[1]</value>
+      <webElementGuid>5bf53635-2853-45e1-9a58-fab65c64f2e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Compare'])[1]/preceding::h1[1]</value>
+      <webElementGuid>1a9811fe-05f0-43ec-9e14-70845d771963</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='.50'])[1]/preceding::h1[1]</value>
+      <webElementGuid>a5201e6a-b9af-4191-9734-418d9ef7c504</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Dulux 4L Vivid White Low Sheen Wash&amp;Wear Interior Paint']/parent::*</value>
+      <webElementGuid>533ae892-cc9a-40d8-af8e-8b5328039ba9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>cd2f8264-2fb4-43a1-b405-34910172d200</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Dulux 4L Vivid White Low Sheen Wash&amp;Wear Interior Paint' or . = 'Dulux 4L Vivid White Low Sheen Wash&amp;Wear Interior Paint')]</value>
+      <webElementGuid>056363cb-1282-4fec-94af-c766df889df3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
