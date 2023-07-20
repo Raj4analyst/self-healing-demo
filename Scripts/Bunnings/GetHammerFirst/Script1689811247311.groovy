@@ -17,6 +17,8 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.callTestCase(findTestCase('Bunnings/Launch'), [:], FailureHandling.STOP_ON_FAILURE)
+
 WebUI.setText(findTestObject('Object Repository/Bunnings/Page_Australia DIY, Garden  Hardware Store _d788a5/input_Hire Shop_q'), 
     'hammer')
 
@@ -29,4 +31,6 @@ WebUI.click(findTestObject('Object Repository/Bunnings/Page_Search results - Bun
 
 WebUI.verifyElementText(findTestObject('Object Repository/Bunnings/Page_Thor Hammer 650g Nylon Soft Faced Hamm_1e135e/h1_Thor Hammer 650g Nylon Soft Faced Hammer TH712'), 
     'Thor Hammer 650g Nylon Soft Faced Hammer TH712')
+
+WebUI.callTestCase(findTestCase('Re-usable Test Case/RUC002-Close Browser'), [:], FailureHandling.STOP_ON_FAILURE)
 

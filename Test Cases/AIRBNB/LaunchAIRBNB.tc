@@ -5,4 +5,43 @@
    <tag></tag>
    <comment></comment>
    <testCaseGuid>70d3c0b5-a6e9-4810-9930-032e5e2180cf</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ccaa7805-7e63-4d26-9e0c-7405c5a5f0f8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2f75da2c-dc76-444d-a358-e4607be8d078</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>65afcfce-d0c0-49d0-b501-93d47af70893</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://www.airbnb.com.au/'</defaultValue>
+      <description></description>
+      <id>ccaa7805-7e63-4d26-9e0c-7405c5a5f0f8</id>
+      <masked>false</masked>
+      <name>URL</name>
+   </variable>
+   <variable>
+      <defaultValue>'atlanta'</defaultValue>
+      <description></description>
+      <id>2f75da2c-dc76-444d-a358-e4607be8d078</id>
+      <masked>false</masked>
+      <name>Place</name>
+   </variable>
+   <variable>
+      <defaultValue>'places in Atlanta'</defaultValue>
+      <description></description>
+      <id>65afcfce-d0c0-49d0-b501-93d47af70893</id>
+      <masked>false</masked>
+      <name>ResultText</name>
+   </variable>
 </TestCaseEntity>

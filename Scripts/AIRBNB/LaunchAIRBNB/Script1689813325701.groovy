@@ -24,7 +24,7 @@ WebUI.navigateToUrl('https://www.airbnb.com.au/')
 WebUI.click(findTestObject('Object Repository/AIRBNB/Page_Holiday Homes  Condo Rentals - Airbnb _9c34c4/div_Anywhere'))
 
 WebUI.setText(findTestObject('Object Repository/AIRBNB/Page_Holiday Homes  Condo Rentals - Airbnb _9c34c4/input_Where_query'), 
-    'atlanta')
+    Place)
 
 WebUI.click(findTestObject('Object Repository/AIRBNB/Page_Holiday Homes  Condo Rentals - Airbnb _9c34c4/div_Atlanta, GA'))
 
@@ -34,8 +34,7 @@ WebUI.click(findTestObject('Object Repository/AIRBNB/Page_Holiday Homes  Condo R
 
 WebUI.click(findTestObject('Object Repository/AIRBNB/Page_Airbnb  Atlanta  Holiday Rentals  Plac_ef63fb/span_Search resultsOver 1,000 places in Atlanta'))
 
-WebUI.verifyTextPresent('places in Atlanta', false)
-
+WebUI.verifyTextPresent(ResultText, false)
 
 WebUI.closeBrowser()
 
