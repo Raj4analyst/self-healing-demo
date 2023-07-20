@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Add guests_t1dqvypu dir dir-ltr</name>
+   <tag></tag>
+   <elementGuidId>5d9e256c-ff0c-4c2a-8b93-72e563051224</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.t1dqvypu.dir.dir-ltr</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='search-tabpanel']/div/div[5]/div/div[2]/button/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a895bbcf-cae9-422b-920d-934a72f62342</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>t1dqvypu dir dir-ltr</value>
+      <webElementGuid>20c9e8a5-6c1d-429a-9a76-cc20ae1addd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;search-tabpanel&quot;)/div[@class=&quot;i1wnljx3 dir dir-ltr&quot;]/div[@class=&quot;c6ezw63 c1geg2ah dir dir-ltr&quot;]/div[@class=&quot;c192dx2b ckzf1ch dir dir-ltr&quot;]/div[@class=&quot;s1d9lc9r dir dir-ltr&quot;]/button[@class=&quot;brqqy3t bd1b9vv dir dir-ltr&quot;]/span[@class=&quot;t1ng71ne dir dir-ltr&quot;]/span[@class=&quot;t1dqvypu dir dir-ltr&quot;]</value>
+      <webElementGuid>1f63c7d5-c8f3-44f2-bfa8-76c55d722b7c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='search-tabpanel']/div/div[5]/div/div[2]/button/span/span</value>
+      <webElementGuid>d8c1f0f1-3fd2-4623-b296-bd437137f93d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span/span</value>
+      <webElementGuid>e50cd503-48f2-4947-9c18-070fdef3eeb3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

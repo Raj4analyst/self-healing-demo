@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Anywhere</name>
+   <tag></tag>
+   <elementGuidId>af847ca6-147c-40e0-80eb-9c67f8419121</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.f19g2zq0.dir.dir-ltr</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Location'])[1]/following::div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>95d47d62-56e4-4077-93c8-03f043096753</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>f19g2zq0 dir dir-ltr</value>
+      <webElementGuid>52019801-6e60-4184-8e84-7cc046995784</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Anywhere</value>
+      <webElementGuid>4982b4d6-5fca-4d4f-b4e8-53d4be8bdc5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;scrollbar-gutter js-focus-visible g1nrbpkt dir native vzpe6cu v1mud78p v4snkvz v1txbv48 vda4df1&quot;]/body[@class=&quot;with-new-header&quot;]/div[5]/div[1]/div[@class=&quot;t1bgcr6e&quot;]/div[1]/div[1]/div[@class=&quot;_1unac3l&quot;]/div[@class=&quot;d99wcva dir dir-ltr&quot;]/div[@class=&quot;_3hmsj&quot;]/div[1]/div[@class=&quot;cd56ld dir dir-ltr&quot;]/div[@class=&quot;hb80sj1 dir dir-ltr&quot;]/div[@class=&quot;c1yo0219 dir dir-ltr&quot;]/div[1]/div[@class=&quot;dir dir-ltr&quot;]/header[@class=&quot;c2hw3up cju3zis dir dir-ltr&quot;]/div[@class=&quot;c119vlnm c2o8m4u dir dir-ltr&quot;]/div[@class=&quot;ct374mi dir dir-ltr&quot;]/div[@class=&quot;lkm6i7z l1rzxhu2 lr5v90m dir dir-ltr&quot;]/div[@class=&quot;cs3bjhu dir dir-ltr&quot;]/button[@class=&quot;ffc0w66 dir dir-ltr&quot;]/div[@class=&quot;f19g2zq0 dir dir-ltr&quot;]</value>
+      <webElementGuid>ee2c9f76-b7ea-41a9-b86c-9bcc0402e1f6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Location'])[1]/following::div[1]</value>
+      <webElementGuid>636b5c09-1f74-43d4-9307-9a308362bd84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start your search'])[1]/following::div[1]</value>
+      <webElementGuid>9b061b9a-85ce-4d18-bb12-7fdc857a16c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Check in / Check out'])[1]/preceding::div[1]</value>
+      <webElementGuid>cd25ca76-0125-4f05-9b24-27573b442b30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Any week'])[1]/preceding::div[1]</value>
+      <webElementGuid>9191afce-3c8b-4ac1-9561-5dbe8a5720f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Anywhere']/parent::*</value>
+      <webElementGuid>14ef0818-1b8e-45db-9fd5-25a159782e0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div</value>
+      <webElementGuid>b1bd969e-ae0b-4ba9-bf78-cd779ea86687</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Anywhere' or . = 'Anywhere')]</value>
+      <webElementGuid>bfda3f8f-f473-466a-9585-b246110b3d04</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
