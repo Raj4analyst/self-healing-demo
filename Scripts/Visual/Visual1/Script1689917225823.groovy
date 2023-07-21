@@ -42,7 +42,7 @@ WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/span_
 
 WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/td_18'))
 
-WebUI.setText(findTestObject('Object Repository/Page_CURA Healthcare Service/textarea_Comment_comment'), 'tesse')
+WebUI.setText(findTestObject('Object Repository/Page_CURA Healthcare Service/textarea_Comment_comment'), 'TESTTOCHECKVISUAL')
 
 WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/button_Book Appointment'))
 
