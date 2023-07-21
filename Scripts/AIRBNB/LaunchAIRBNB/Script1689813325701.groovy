@@ -26,6 +26,8 @@ WebUI.click(findTestObject('Object Repository/AIRBNB/Page_Holiday Homes  Condo R
 WebUI.setText(findTestObject('Object Repository/AIRBNB/Page_Holiday Homes  Condo Rentals - Airbnb _9c34c4/input_Where_query'), 
     Place)
 
+WebUI.takeScreenshot()
+
 WebUI.click(findTestObject('Object Repository/AIRBNB/Page_Holiday Homes  Condo Rentals - Airbnb _9c34c4/div_Atlanta, GA'))
 
 WebUI.click(findTestObject('Object Repository/AIRBNB/Page_Holiday Homes  Condo Rentals - Airbnb _9c34c4/div_3 days'))
