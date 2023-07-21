@@ -21,29 +21,5 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.flightcentre.com.au/')
 
-WebUI.waitForElementPresent(findTestObject('Object Repository/FlightCenter/Page_Cheap Flights, Hotels, Tours, Cruises _4636e9/img_Sitemap_ImagePopupBlockReadOnly__Intern_cee081'), 
-    0)
-
-WebUI.click(findTestObject('Object Repository/FlightCenter/Page_Cheap Flights, Hotels, Tours, Cruises _4636e9/path'))
-
-WebUI.setText(findTestObject('Object Repository/FlightCenter/Page_Cheap Flights, Hotels, Tours, Cruises _4636e9/input__destination'), 
-    'CBR')
-
-WebUI.waitForElementPresent(findTestObject('Object Repository/FlightCenter/Page_Cheap Flights, Hotels, Tours, Cruises _4636e9/div_Kempegowda International AirportBangalo_4f8ebd'), 
-    0)
-
-WebUI.click(findTestObject('Object Repository/FlightCenter/Page_Cheap Flights, Hotels, Tours, Cruises _4636e9/div_Kempegowda International AirportBangalo_4f8ebd'))
-
-WebUI.click(findTestObject('Object Repository/FlightCenter/Page_Cheap Flights, Hotels, Tours, Cruises _4636e9/button_Search flights'))
-
-WebUI.switchToWindowTitle('Flight Centre Australia | Availability')
-
-WebUI.waitForElementPresent(findTestObject('Object Repository/FlightCenter/Page_Flight Centre Australia  Availability/div_0945Fri21JulSYD1 Stop DELBLR0625Sat22Ju_2016cd'), 
-    0)
-
-WebUI.click(findTestObject('Object Repository/FlightCenter/Page_Flight Centre Australia  Availability/div_0945Fri21JulSYD1 Stop DELBLR0625Sat22Ju_2016cd'))
-
-WebUI.click(findTestObject('Object Repository/FlightCenter/Page_Flight Centre Australia  Availability/span_SELECT'))
-
 WebUI.closeBrowser()
 
